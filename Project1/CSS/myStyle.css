@@ -4,7 +4,7 @@ h1 {font-size: 80px; text-align : center;}
 h2 {font-size: 50px;}
 h3 {font-size: 30px;}
 p {font-size: 20px;}
-header,h1, h2, h3, p {font-family: 'Big Shoulders Text', cursive;}
+h1, h2, h3, p {font-family: 'Big Shoulders Text', cursive;}
 
 .header {
 	overflow: hidden;
@@ -15,7 +15,7 @@ header,h1, h2, h3, p {font-family: 'Big Shoulders Text', cursive;}
 	float: left;
 	color: #ff9999;
 	text-align: center;
-	padding: 12px;
+	padding: 30px;
 	font size: 20px;
 	line-height: 30px;
 	border-radius: 4px;
@@ -41,7 +41,7 @@ header,h1, h2, h3, p {font-family: 'Big Shoulders Text', cursive;}
 	float: right;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 700px) {
 	.header a {
 		float: none;
 		display: block;
@@ -49,6 +49,13 @@ header,h1, h2, h3, p {font-family: 'Big Shoulders Text', cursive;}
 	}
 	.header-right {
 		float: none;
+	}
+
+	.fas fa-coffee {
+		font-size: 20px;
+		color: #ff9999;
+		text-align: left;
+		float: left;
 	}
 }
 
