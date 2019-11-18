@@ -1,7 +1,4 @@
-.thirds {
-    width: 33%;
-    display: inline-block;
-}
+
 h1, h2, h3 { color : white; }
 h1 {font-size: 80px; text-align : center;}
 h2 {font-size: 50px;}
@@ -10,3 +7,12 @@ p {font-size: 20px;}
 h1, h2, h3, p {font-family: 'Big Shoulders Text', cursive;}
 
 
+.thirds {
+    width: 33%;
+    display: inline-block;
+}
+
+.halves {
+	width: 49.9%;
+	display: inline-block;
+}
