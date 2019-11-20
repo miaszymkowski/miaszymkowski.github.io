@@ -45,7 +45,6 @@ a,h1, h2, h3, p {font-family: 'Big Shoulders Text', cursive, lighter;}
 	text-align: center;
 }
 
-
 @media screen and (max-width: 400px) {
 	.header a {
 		float: none;
