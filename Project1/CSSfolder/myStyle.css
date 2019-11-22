@@ -6,9 +6,9 @@ h3 {font-size: 30px;font-family: 'Big Shoulders Text';}
 /*a,h1, h2, h3, p {font-family: 'Big Shoulders Text', cursive, lighter;}
 */
 .navbar-brand a {
-	color: black;
+	color: #292929;
 }
-.navbar-brand a :hover{
+ a :hover{
  color: #ff9999;
 }
 .page2 h2{
