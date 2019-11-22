@@ -5,11 +5,11 @@ h3 {font-size: 30px;font-family: 'Big Shoulders Text';}
 
 /*a,h1, h2, h3, p {font-family: 'Big Shoulders Text', cursive, lighter;}
 */
-a{
+.page1 a, .page2 a, .page3 a{
 	color: black;
 }
-a:hover{
- color: pink;
+.page1 a:hover, .page2 a:hover, .page3 a:hover{
+ color: #ff6666;
 }
 .page2 h2{
 	color:#ff6666;
