@@ -7,9 +7,11 @@ h3 {font-size: 30px;font-family: 'Big Shoulders Text';}
 */
 .navbar-brand a {
 	color: #292929;
+	 text-decoration: none;
 }
 a :hover{
  color: #ff9999;
+ text-decoration: none;
 }
 .page2 h2{
 	color:#ff6666;
