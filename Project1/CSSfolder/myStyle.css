@@ -5,10 +5,10 @@ h3 {font-size: 30px;font-family: 'Big Shoulders Text';}
 
 /*a,h1, h2, h3, p {font-family: 'Big Shoulders Text', cursive, lighter;}
 */
-a {
+.navbar-brand a {
 	color: #292929;
 }
-a :hover{
+.navbar-brand a :hover{
  color: #ff9999;
 }
 .page2 h2{
