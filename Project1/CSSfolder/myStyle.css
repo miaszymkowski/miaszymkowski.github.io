@@ -127,13 +127,13 @@ width: 100%;
 }
  body.page2{
 	background-repeat: no-repeat;
-	background-image: url(about.jpg);
+	/*background-image: url(about.jpg);*/
 	background-color: #ffb3b3;
 	background-size: cover;
 }
 body.page3{
 	background-repeat: no-repeat;
-	background-image: url(contact.jpg);
+	/*background-image: url(contact.jpg);*/
 	background-color: #ffb3b3;
 	background-size: cover;
 }
