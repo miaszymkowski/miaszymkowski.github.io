@@ -1,5 +1,5 @@
 
-h1,h3 { font-family: 'Playfair Display';color: #496680;}
+h1,h2,h3,p { font-family: 'Playfair Display';color: #496680;}
 h1{font-size: 80px;letter-spacing: .4rem;}
 h3{font-size:20px;letter-spacing: .1rem;}
 
@@ -57,16 +57,22 @@ img.resume{
 div#aboutme{
 	float: center;
 	display: block;
-	padding-left: 200px;
-	padding-right:200px;
+	padding-left: 100px;
+	padding-right:100px;
 	padding-bottom: 100px;
 	word-spacing: 2px;
 }
 h1.titleaboutme{
-	padding-bottom: 20px;
-	text-align: center;
+	text-align: left;
+}
+h1.titleaboutme#smallertext{
+	text-align: left;
+	font-size: 56px;
+	color:white;
+	text-shadow: -1px -1px 0 #b0b2b5, 1px -1px 0 #b0b2b5, -1px 1px 0 #b0b2b5, 1px 1px 0 #b0b2b5;
 }
 h3.titleaboutme{
+	padding-top: 20px;
 	text-align: justify;
 	line-height: 1.5;
 }
@@ -74,6 +80,7 @@ h3.titleaboutme{
 div#image{
 	background-color:#e8eaed;
 	padding-top:70px;
+	padding-bottom:100px;
 }
 div#words{
 	padding-top: 100px;
@@ -100,5 +107,35 @@ h3.acc{
     background-color:#b3b6ba;
     border-color: white;
 }
+.transparentbox {
+  margin: 50px;
+  padding:30px;
+  padding-left: 80px;
+  padding-right: 80px;
+  background-color: white;
+  border: 1px solid #b3b6ba;
+  opacity: 0.8;
+  filter: alpha(opacity=60);
+}
+a.pagelink{
+	color:#496680;
+	}
+
+img.miapic{
+	width:100%;
+	height: 382px;
+    width: auto;
+    margin-bottom: 100px;
+    margin-left: 0px;
+}
+.col-md-3 {
+    text-align: center;
+  }
+ li{
+ 	font-family: 'Playfair Display';
+ 	color: #496680;
+ 	font-size: 16px;
+ }
+
 
 
