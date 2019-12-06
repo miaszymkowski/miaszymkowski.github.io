@@ -1,0 +1,14 @@
+
+}
+li.user{
+	list-style:none;
+}
+img.fluid{
+	width:100%;
+	border-radius: 50%;
+}
+ul#users{
+	list-style:none;
+	column-count: 5;
+	column-gap:25px;
+}
